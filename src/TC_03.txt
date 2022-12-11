@@ -1,1 +1,2 @@
 I don't add the text to the Staging index at the first step
+Again I added something new at the remote repository
